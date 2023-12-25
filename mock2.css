@@ -1,0 +1,21 @@
+.leftmain-content
+{
+    display: flex;
+    gap: 30px;
+    margin: 100px;
+
+}
+
+.sub-content
+{
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.myimage
+{
+    width: 50%;
+    height: auto;
+
+}
